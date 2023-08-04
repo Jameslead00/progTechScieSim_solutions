@@ -3,7 +3,6 @@
 #include <cmath>
 
 double integrate(double a, double b, unsigned int nbins);
-
 double f(double x){
     return std::sin(x);
 }
