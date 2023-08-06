@@ -1,0 +1,3 @@
+/home/jameslead/sem3/PT_2/solutions/ex4/build/CMakeFiles/z2.exe.dir
+/home/jameslead/sem3/PT_2/solutions/ex4/build/CMakeFiles/edit_cache.dir
+/home/jameslead/sem3/PT_2/solutions/ex4/build/CMakeFiles/rebuild_cache.dir

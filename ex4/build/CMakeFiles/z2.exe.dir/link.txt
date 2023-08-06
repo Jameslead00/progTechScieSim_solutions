@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/z2.exe.dir/z2_group_skeleton.cpp.o -o z2.exe 
