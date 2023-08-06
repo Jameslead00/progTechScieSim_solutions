@@ -1,0 +1,3 @@
+/home/jameslead/sem3/PT_2/solutions/ex3/epsilon/build/CMakeFiles/epsilon.dir
+/home/jameslead/sem3/PT_2/solutions/ex3/epsilon/build/CMakeFiles/edit_cache.dir
+/home/jameslead/sem3/PT_2/solutions/ex3/epsilon/build/CMakeFiles/rebuild_cache.dir
