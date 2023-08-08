@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/simpson.dir/main.cpp.o -o simpson 
