@@ -1,0 +1,3 @@
+/home/jameslead/sem3/PT_2/solutions/ex4/simpson/build/CMakeFiles/simpson.dir
+/home/jameslead/sem3/PT_2/solutions/ex4/simpson/build/CMakeFiles/edit_cache.dir
+/home/jameslead/sem3/PT_2/solutions/ex4/simpson/build/CMakeFiles/rebuild_cache.dir
